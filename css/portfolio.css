@@ -408,7 +408,7 @@
 		grid-area: list;
 		margin: 20px 0;
 		box-sizing: border-box;
-		margin-left: 40px;
+/* 		margin-left: 40px; */
 	}	
 	
 	.flex-grid .item {
